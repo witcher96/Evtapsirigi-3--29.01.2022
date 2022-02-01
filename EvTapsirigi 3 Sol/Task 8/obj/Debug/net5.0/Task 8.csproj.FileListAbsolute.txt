@@ -1,0 +1,15 @@
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\Task 8\bin\Debug\net5.0\Task 8.exe
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\Task 8\bin\Debug\net5.0\Task 8.deps.json
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\Task 8\bin\Debug\net5.0\Task 8.runtimeconfig.json
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\Task 8\bin\Debug\net5.0\Task 8.runtimeconfig.dev.json
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\Task 8\bin\Debug\net5.0\Task 8.dll
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\Task 8\bin\Debug\net5.0\ref\Task 8.dll
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\Task 8\bin\Debug\net5.0\Task 8.pdb
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\Task 8\obj\Debug\net5.0\Task 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\Task 8\obj\Debug\net5.0\Task 8.AssemblyInfoInputs.cache
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\Task 8\obj\Debug\net5.0\Task 8.AssemblyInfo.cs
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\Task 8\obj\Debug\net5.0\Task 8.csproj.CoreCompileInputs.cache
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\Task 8\obj\Debug\net5.0\Task 8.dll
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\Task 8\obj\Debug\net5.0\ref\Task 8.dll
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\Task 8\obj\Debug\net5.0\Task 8.pdb
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\Task 8\obj\Debug\net5.0\Task 8.genruntimeconfig.cache

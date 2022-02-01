@@ -1,0 +1,15 @@
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\EvTapsirigi 3\bin\Debug\net5.0\Task 1.exe
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\EvTapsirigi 3\bin\Debug\net5.0\Task 1.deps.json
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\EvTapsirigi 3\bin\Debug\net5.0\Task 1.runtimeconfig.json
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\EvTapsirigi 3\bin\Debug\net5.0\Task 1.runtimeconfig.dev.json
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\EvTapsirigi 3\bin\Debug\net5.0\Task 1.dll
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\EvTapsirigi 3\bin\Debug\net5.0\ref\Task 1.dll
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\EvTapsirigi 3\bin\Debug\net5.0\Task 1.pdb
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\EvTapsirigi 3\obj\Debug\net5.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\EvTapsirigi 3\obj\Debug\net5.0\Task 1.AssemblyInfoInputs.cache
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\EvTapsirigi 3\obj\Debug\net5.0\Task 1.AssemblyInfo.cs
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\EvTapsirigi 3\obj\Debug\net5.0\Task 1.csproj.CoreCompileInputs.cache
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\EvTapsirigi 3\obj\Debug\net5.0\Task 1.dll
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\EvTapsirigi 3\obj\Debug\net5.0\ref\Task 1.dll
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\EvTapsirigi 3\obj\Debug\net5.0\Task 1.pdb
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\EvTapsirigi 3\obj\Debug\net5.0\Task 1.genruntimeconfig.cache

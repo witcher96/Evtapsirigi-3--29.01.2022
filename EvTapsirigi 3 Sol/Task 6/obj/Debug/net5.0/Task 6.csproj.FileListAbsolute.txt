@@ -1,0 +1,16 @@
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\Task 6\bin\Debug\net5.0\Task 6.exe
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\Task 6\bin\Debug\net5.0\Task 6.deps.json
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\Task 6\bin\Debug\net5.0\Task 6.runtimeconfig.json
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\Task 6\bin\Debug\net5.0\Task 6.runtimeconfig.dev.json
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\Task 6\bin\Debug\net5.0\Task 6.dll
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\Task 6\bin\Debug\net5.0\ref\Task 6.dll
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\Task 6\bin\Debug\net5.0\Task 6.pdb
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\Task 6\obj\Debug\net5.0\Task 6.csproj.AssemblyReference.cache
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\Task 6\obj\Debug\net5.0\Task 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\Task 6\obj\Debug\net5.0\Task 6.AssemblyInfoInputs.cache
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\Task 6\obj\Debug\net5.0\Task 6.AssemblyInfo.cs
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\Task 6\obj\Debug\net5.0\Task 6.csproj.CoreCompileInputs.cache
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\Task 6\obj\Debug\net5.0\Task 6.dll
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\Task 6\obj\Debug\net5.0\ref\Task 6.dll
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\Task 6\obj\Debug\net5.0\Task 6.pdb
+C:\Users\predator\Desktop\Evtapsirigi 3\Evtapsirigi-3--29.01.2022\EvTapsirigi 3 Sol\Task 6\obj\Debug\net5.0\Task 6.genruntimeconfig.cache
